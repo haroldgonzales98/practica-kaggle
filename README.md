@@ -4,7 +4,7 @@
 ## NIU: 1571485
 ## Contacto: 1571485@uab.cat
 ## Caso Kaggle:
-_El objetivo con esta base de datos es predecirlas cinco grandes personalidades que tiene una persona en base a un test realizado, y gracias a los resultados dados (respuestas entre 0 y 5) poder decir si una persona es inventivo vs. consistente, organizado vs extravagante, sociable vs. solitario, amigable vs. desafiante, y  nervioso vs. seguro.
+_El objetivo con esta base de datos es predecirlas cinco grandes personalidades que tiene una persona en base a un test realizado, y gracias a los resultados dados (respuestas entre 0 y 5) poder decir si una persona es inventivo vs. consistente, organizado vs extravagante, sociable vs. solitario, amigable vs. desafiante, y  nervioso vs. seguro._
 [Base de datos de Kaggle](https://www.kaggle.com/datasets/tunguz/big-five-personality-test?resource=download)
 
 ## Resumen
