@@ -23,7 +23,7 @@ Para entender mejor la base de datos primero se analizaron y visualizaron los da
 Primero se hizo un análisis de los datos para ver si existen datos con valores nulos y repetidos para depurarlo y así tener menos trabajo en un futuro.
 
 Luego con un Heatmap se vio las correlaciones de las variables, como podemos observar en la siguiente imagen:
-
+![heatmap](https://user-images.githubusercontent.com/57755402/207672524-58182634-be4d-4157-907c-675232b7d752.png)
 
 Podemos comprobar que EXT (Extroversion) y AGR (Agreeableness) tienen un valor más alto que los demás, por tanto podemos decir que tienen mayor correlación. Sin embargo, podemos visualizar valores negativos de EST (Neuroticism) con EXT (-0.22) y CSN (Conscientiousness, -0.23).
 De acuerdo con el libro de códigos, las latitudes y longitudes dadas (columnas lat_appx_lots_of_err y long_appx_lots_of_err) son muy inexactas, por lo que se eliminarán ambas columnas. Además, he pasado los tipos de respuesta a integers.
